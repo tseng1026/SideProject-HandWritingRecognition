@@ -1,0 +1,600 @@
+
+###### Epoch: 1
+[Done] Computing train loss: 0.1095
+[Done] Computing train scre: 0.9657
+[Done] Computing valid loss: 0.0592
+[Done] Computing valid scre: 0.9827
+
+###### Epoch: 2
+[Done] Computing train loss: 0.0413
+[Done] Computing train scre: 0.9872
+[Done] Computing valid loss: 0.0507
+[Done] Computing valid scre: 0.9857
+
+###### Epoch: 3
+[Done] Computing train loss: 0.0279
+[Done] Computing train scre: 0.9915
+[Done] Computing valid loss: 0.0481
+[Done] Computing valid scre: 0.9859
+
+###### Epoch: 4
+[Done] Computing train loss: 0.0203
+[Done] Computing train scre: 0.9938
+[Done] Computing valid loss: 0.0485
+[Done] Computing valid scre: 0.9885
+
+###### Epoch: 5
+[Done] Computing train loss: 0.0174
+[Done] Computing train scre: 0.9949
+[Done] Computing valid loss: 0.0637
+[Done] Computing valid scre: 0.9845
+
+###### Epoch: 6
+[Done] Computing train loss: 0.0126
+[Done] Computing train scre: 0.9963
+[Done] Computing valid loss: 0.0423
+[Done] Computing valid scre: 0.9898
+
+###### Epoch: 7
+[Done] Computing train loss: 0.0132
+[Done] Computing train scre: 0.9960
+[Done] Computing valid loss: 0.0446
+[Done] Computing valid scre: 0.9895
+
+###### Epoch: 8
+[Done] Computing train loss: 0.0116
+[Done] Computing train scre: 0.9967
+[Done] Computing valid loss: 0.0504
+[Done] Computing valid scre: 0.9891
+
+###### Epoch: 9
+[Done] Computing train loss: 0.0096
+[Done] Computing train scre: 0.9972
+[Done] Computing valid loss: 0.0504
+[Done] Computing valid scre: 0.9900
+
+###### Epoch: 10
+[Done] Computing train loss: 0.0081
+[Done] Computing train scre: 0.9975
+[Done] Computing valid loss: 0.0572
+[Done] Computing valid scre: 0.9916
+
+###### Epoch: 11
+[Done] Computing train loss: 0.0096
+[Done] Computing train scre: 0.9972
+[Done] Computing valid loss: 0.0680
+[Done] Computing valid scre: 0.9895
+
+###### Epoch: 12
+[Done] Computing train loss: 0.0089
+[Done] Computing train scre: 0.9974
+[Done] Computing valid loss: 0.0530
+[Done] Computing valid scre: 0.9908
+
+###### Epoch: 13
+[Done] Computing train loss: 0.0072
+[Done] Computing train scre: 0.9981
+[Done] Computing valid loss: 0.0765
+[Done] Computing valid scre: 0.9895
+
+###### Epoch: 14
+[Done] Computing train loss: 0.0087
+[Done] Computing train scre: 0.9979
+[Done] Computing valid loss: 0.0690
+[Done] Computing valid scre: 0.9926
+
+###### Epoch: 15
+[Done] Computing train loss: 0.0071
+[Done] Computing train scre: 0.9982
+[Done] Computing valid loss: 0.0599
+[Done] Computing valid scre: 0.9922
+
+###### Epoch: 16
+[Done] Computing train loss: 0.0083
+[Done] Computing train scre: 0.9978
+[Done] Computing valid loss: 0.0661
+[Done] Computing valid scre: 0.9920
+
+###### Epoch: 17
+[Done] Computing train loss: 0.0057
+[Done] Computing train scre: 0.9987
+[Done] Computing valid loss: 0.0770
+[Done] Computing valid scre: 0.9920
+
+###### Epoch: 18
+[Done] Computing train loss: 0.0066
+[Done] Computing train scre: 0.9982
+[Done] Computing valid loss: 0.0809
+[Done] Computing valid scre: 0.9900
+
+###### Epoch: 19
+[Done] Computing train loss: 0.0075
+[Done] Computing train scre: 0.9983
+[Done] Computing valid loss: 0.0931
+[Done] Computing valid scre: 0.9904
+
+###### Epoch: 20
+[Done] Computing train loss: 0.0076
+[Done] Computing train scre: 0.9986
+[Done] Computing valid loss: 0.0676
+[Done] Computing valid scre: 0.9910
+
+###### Epoch: 21
+[Done] Computing train loss: 0.0051
+[Done] Computing train scre: 0.9987
+[Done] Computing valid loss: 0.0877
+[Done] Computing valid scre: 0.9896
+
+###### Epoch: 22
+[Done] Computing train loss: 0.0085
+[Done] Computing train scre: 0.9981
+[Done] Computing valid loss: 0.1086
+[Done] Computing valid scre: 0.9902
+
+###### Epoch: 23
+[Done] Computing train loss: 0.0066
+[Done] Computing train scre: 0.9987
+[Done] Computing valid loss: 0.1154
+[Done] Computing valid scre: 0.9896
+
+###### Epoch: 24
+[Done] Computing train loss: 0.0058
+[Done] Computing train scre: 0.9990
+[Done] Computing valid loss: 0.0976
+[Done] Computing valid scre: 0.9910
+
+###### Epoch: 25
+[Done] Computing train loss: 0.0113
+[Done] Computing train scre: 0.9979
+[Done] Computing valid loss: 0.1051
+[Done] Computing valid scre: 0.9889
+
+###### Epoch: 26
+[Done] Computing train loss: 0.0034
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.0875
+[Done] Computing valid scre: 0.9918
+
+###### Epoch: 27
+[Done] Computing train loss: 0.0069
+[Done] Computing train scre: 0.9986
+[Done] Computing valid loss: 0.1890
+[Done] Computing valid scre: 0.9887
+
+###### Epoch: 28
+[Done] Computing train loss: 0.0087
+[Done] Computing train scre: 0.9984
+[Done] Computing valid loss: 0.0888
+[Done] Computing valid scre: 0.9912
+
+###### Epoch: 29
+[Done] Computing train loss: 0.0027
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.1446
+[Done] Computing valid scre: 0.9906
+
+###### Epoch: 30
+[Done] Computing train loss: 0.0108
+[Done] Computing train scre: 0.9983
+[Done] Computing valid loss: 0.1493
+[Done] Computing valid scre: 0.9889
+
+###### Epoch: 31
+[Done] Computing train loss: 0.0029
+[Done] Computing train scre: 0.9995
+[Done] Computing valid loss: 0.1250
+[Done] Computing valid scre: 0.9912
+
+###### Epoch: 32
+[Done] Computing train loss: 0.0088
+[Done] Computing train scre: 0.9988
+[Done] Computing valid loss: 0.1620
+[Done] Computing valid scre: 0.9895
+
+###### Epoch: 33
+[Done] Computing train loss: 0.0080
+[Done] Computing train scre: 0.9988
+[Done] Computing valid loss: 0.1432
+[Done] Computing valid scre: 0.9898
+
+###### Epoch: 34
+[Done] Computing train loss: 0.0060
+[Done] Computing train scre: 0.9988
+[Done] Computing valid loss: 0.1321
+[Done] Computing valid scre: 0.9914
+
+###### Epoch: 35
+[Done] Computing train loss: 0.0058
+[Done] Computing train scre: 0.9992
+[Done] Computing valid loss: 0.0857
+[Done] Computing valid scre: 0.9900
+
+###### Epoch: 36
+[Done] Computing train loss: 0.0070
+[Done] Computing train scre: 0.9991
+[Done] Computing valid loss: 0.1371
+[Done] Computing valid scre: 0.9900
+
+###### Epoch: 37
+[Done] Computing train loss: 0.0099
+[Done] Computing train scre: 0.9986
+[Done] Computing valid loss: 0.1192
+[Done] Computing valid scre: 0.9916
+
+###### Epoch: 38
+[Done] Computing train loss: 0.0046
+[Done] Computing train scre: 0.9994
+[Done] Computing valid loss: 0.1350
+[Done] Computing valid scre: 0.9902
+
+###### Epoch: 39
+[Done] Computing train loss: 0.0048
+[Done] Computing train scre: 0.9991
+[Done] Computing valid loss: 0.1697
+[Done] Computing valid scre: 0.9898
+
+###### Epoch: 40
+[Done] Computing train loss: 0.0099
+[Done] Computing train scre: 0.9986
+[Done] Computing valid loss: 0.1592
+[Done] Computing valid scre: 0.9912
+
+###### Epoch: 41
+[Done] Computing train loss: 0.0040
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.1865
+[Done] Computing valid scre: 0.9910
+
+###### Epoch: 42
+[Done] Computing train loss: 0.0091
+[Done] Computing train scre: 0.9987
+[Done] Computing valid loss: 0.1908
+[Done] Computing valid scre: 0.9896
+
+###### Epoch: 43
+[Done] Computing train loss: 0.0061
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.1956
+[Done] Computing valid scre: 0.9914
+
+###### Epoch: 44
+[Done] Computing train loss: 0.0090
+[Done] Computing train scre: 0.9988
+[Done] Computing valid loss: 0.2784
+[Done] Computing valid scre: 0.9908
+
+###### Epoch: 45
+[Done] Computing train loss: 0.0069
+[Done] Computing train scre: 0.9992
+[Done] Computing valid loss: 0.1730
+[Done] Computing valid scre: 0.9916
+
+###### Epoch: 46
+[Done] Computing train loss: 0.0084
+[Done] Computing train scre: 0.9991
+[Done] Computing valid loss: 0.3682
+[Done] Computing valid scre: 0.9896
+
+###### Epoch: 47
+[Done] Computing train loss: 0.0094
+[Done] Computing train scre: 0.9991
+[Done] Computing valid loss: 0.2316
+[Done] Computing valid scre: 0.9904
+
+###### Epoch: 48
+[Done] Computing train loss: 0.0055
+[Done] Computing train scre: 0.9992
+[Done] Computing valid loss: 0.2262
+[Done] Computing valid scre: 0.9900
+
+###### Epoch: 49
+[Done] Computing train loss: 0.0073
+[Done] Computing train scre: 0.9991
+[Done] Computing valid loss: 0.3411
+[Done] Computing valid scre: 0.9895
+
+###### Epoch: 50
+[Done] Computing train loss: 0.0098
+[Done] Computing train scre: 0.9992
+[Done] Computing valid loss: 0.2098
+[Done] Computing valid scre: 0.9902
+
+###### Epoch: 51
+[Done] Computing train loss: 0.0064
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.2130
+[Done] Computing valid scre: 0.9900
+
+###### Epoch: 52
+[Done] Computing train loss: 0.0082
+[Done] Computing train scre: 0.9990
+[Done] Computing valid loss: 0.1941
+[Done] Computing valid scre: 0.9906
+
+###### Epoch: 53
+[Done] Computing train loss: 0.0077
+[Done] Computing train scre: 0.9991
+[Done] Computing valid loss: 0.2937
+[Done] Computing valid scre: 0.9904
+
+###### Epoch: 54
+[Done] Computing train loss: 0.0075
+[Done] Computing train scre: 0.9992
+[Done] Computing valid loss: 0.2473
+[Done] Computing valid scre: 0.9922
+
+###### Epoch: 55
+[Done] Computing train loss: 0.0065
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.3152
+[Done] Computing valid scre: 0.9906
+
+###### Epoch: 56
+[Done] Computing train loss: 0.0108
+[Done] Computing train scre: 0.9989
+[Done] Computing valid loss: 0.3587
+[Done] Computing valid scre: 0.9904
+
+###### Epoch: 57
+[Done] Computing train loss: 0.0103
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.2617
+[Done] Computing valid scre: 0.9914
+
+###### Epoch: 58
+[Done] Computing train loss: 0.0077
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.2395
+[Done] Computing valid scre: 0.9902
+
+###### Epoch: 59
+[Done] Computing train loss: 0.0069
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.3652
+[Done] Computing valid scre: 0.9895
+
+###### Epoch: 60
+[Done] Computing train loss: 0.0075
+[Done] Computing train scre: 0.9994
+[Done] Computing valid loss: 0.2987
+[Done] Computing valid scre: 0.9918
+
+###### Epoch: 61
+[Done] Computing train loss: 0.0119
+[Done] Computing train scre: 0.9992
+[Done] Computing valid loss: 0.2598
+[Done] Computing valid scre: 0.9885
+
+###### Epoch: 62
+[Done] Computing train loss: 0.0093
+[Done] Computing train scre: 0.9992
+[Done] Computing valid loss: 0.3533
+[Done] Computing valid scre: 0.9893
+
+###### Epoch: 63
+[Done] Computing train loss: 0.0064
+[Done] Computing train scre: 0.9994
+[Done] Computing valid loss: 0.3212
+[Done] Computing valid scre: 0.9904
+
+###### Epoch: 64
+[Done] Computing train loss: 0.0089
+[Done] Computing train scre: 0.9992
+[Done] Computing valid loss: 0.3641
+[Done] Computing valid scre: 0.9908
+
+###### Epoch: 65
+[Done] Computing train loss: 0.0083
+[Done] Computing train scre: 0.9994
+[Done] Computing valid loss: 0.3072
+[Done] Computing valid scre: 0.9912
+
+###### Epoch: 66
+[Done] Computing train loss: 0.0097
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.2854
+[Done] Computing valid scre: 0.9896
+
+###### Epoch: 67
+[Done] Computing train loss: 0.0069
+[Done] Computing train scre: 0.9995
+[Done] Computing valid loss: 0.4108
+[Done] Computing valid scre: 0.9885
+
+###### Epoch: 68
+[Done] Computing train loss: 0.0090
+[Done] Computing train scre: 0.9992
+[Done] Computing valid loss: 0.3125
+[Done] Computing valid scre: 0.9930
+
+###### Epoch: 69
+[Done] Computing train loss: 0.0081
+[Done] Computing train scre: 0.9994
+[Done] Computing valid loss: 0.4799
+[Done] Computing valid scre: 0.9904
+
+###### Epoch: 70
+[Done] Computing train loss: 0.0116
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.3242
+[Done] Computing valid scre: 0.9908
+
+###### Epoch: 71
+[Done] Computing train loss: 0.0097
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.3360
+[Done] Computing valid scre: 0.9918
+
+###### Epoch: 72
+[Done] Computing train loss: 0.0078
+[Done] Computing train scre: 0.9994
+[Done] Computing valid loss: 0.3382
+[Done] Computing valid scre: 0.9906
+
+###### Epoch: 73
+[Done] Computing train loss: 0.0117
+[Done] Computing train scre: 0.9992
+[Done] Computing valid loss: 0.4357
+[Done] Computing valid scre: 0.9918
+
+###### Epoch: 74
+[Done] Computing train loss: 0.0068
+[Done] Computing train scre: 0.9997
+[Done] Computing valid loss: 0.3304
+[Done] Computing valid scre: 0.9926
+
+###### Epoch: 75
+[Done] Computing train loss: 0.0106
+[Done] Computing train scre: 0.9994
+[Done] Computing valid loss: 0.3164
+[Done] Computing valid scre: 0.9914
+
+###### Epoch: 76
+[Done] Computing train loss: 0.0050
+[Done] Computing train scre: 0.9995
+[Done] Computing valid loss: 0.3527
+[Done] Computing valid scre: 0.9902
+
+###### Epoch: 77
+[Done] Computing train loss: 0.0035
+[Done] Computing train scre: 0.9996
+[Done] Computing valid loss: 0.3892
+[Done] Computing valid scre: 0.9908
+
+###### Epoch: 78
+[Done] Computing train loss: 0.0077
+[Done] Computing train scre: 0.9994
+[Done] Computing valid loss: 0.5039
+[Done] Computing valid scre: 0.9900
+
+###### Epoch: 79
+[Done] Computing train loss: 0.0085
+[Done] Computing train scre: 0.9996
+[Done] Computing valid loss: 0.4810
+[Done] Computing valid scre: 0.9900
+
+###### Epoch: 80
+[Done] Computing train loss: 0.0044
+[Done] Computing train scre: 0.9997
+[Done] Computing valid loss: 0.5403
+[Done] Computing valid scre: 0.9912
+
+###### Epoch: 81
+[Done] Computing train loss: 0.0140
+[Done] Computing train scre: 0.9995
+[Done] Computing valid loss: 0.4004
+[Done] Computing valid scre: 0.9930
+
+###### Epoch: 82
+[Done] Computing train loss: 0.0086
+[Done] Computing train scre: 0.9995
+[Done] Computing valid loss: 0.5721
+[Done] Computing valid scre: 0.9908
+
+###### Epoch: 83
+[Done] Computing train loss: 0.0073
+[Done] Computing train scre: 0.9995
+[Done] Computing valid loss: 0.5210
+[Done] Computing valid scre: 0.9898
+
+###### Epoch: 84
+[Done] Computing train loss: 0.0085
+[Done] Computing train scre: 0.9996
+[Done] Computing valid loss: 0.4498
+[Done] Computing valid scre: 0.9916
+
+###### Epoch: 85
+[Done] Computing train loss: 0.0129
+[Done] Computing train scre: 0.9994
+[Done] Computing valid loss: 0.4476
+[Done] Computing valid scre: 0.9922
+
+###### Epoch: 86
+[Done] Computing train loss: 0.0094
+[Done] Computing train scre: 0.9995
+[Done] Computing valid loss: 0.4263
+[Done] Computing valid scre: 0.9920
+
+###### Epoch: 87
+[Done] Computing train loss: 0.0049
+[Done] Computing train scre: 0.9997
+[Done] Computing valid loss: 0.4060
+[Done] Computing valid scre: 0.9922
+
+###### Epoch: 88
+[Done] Computing train loss: 0.0076
+[Done] Computing train scre: 0.9998
+[Done] Computing valid loss: 0.6085
+[Done] Computing valid scre: 0.9896
+
+###### Epoch: 89
+[Done] Computing train loss: 0.0112
+[Done] Computing train scre: 0.9994
+[Done] Computing valid loss: 0.5776
+[Done] Computing valid scre: 0.9904
+
+###### Epoch: 90
+[Done] Computing train loss: 0.0051
+[Done] Computing train scre: 0.9996
+[Done] Computing valid loss: 0.5622
+[Done] Computing valid scre: 0.9906
+
+###### Epoch: 91
+[Done] Computing train loss: 0.0109
+[Done] Computing train scre: 0.9993
+[Done] Computing valid loss: 0.7115
+[Done] Computing valid scre: 0.9900
+
+###### Epoch: 92
+[Done] Computing train loss: 0.0106
+[Done] Computing train scre: 0.9995
+[Done] Computing valid loss: 0.6499
+[Done] Computing valid scre: 0.9900
+
+###### Epoch: 93
+[Done] Computing train loss: 0.0091
+[Done] Computing train scre: 0.9995
+[Done] Computing valid loss: 0.5087
+[Done] Computing valid scre: 0.9898
+
+###### Epoch: 94
+[Done] Computing train loss: 0.0137
+[Done] Computing train scre: 0.9994
+[Done] Computing valid loss: 0.4469
+[Done] Computing valid scre: 0.9918
+
+###### Epoch: 95
+[Done] Computing train loss: 0.0082
+[Done] Computing train scre: 0.9995
+[Done] Computing valid loss: 0.6530
+[Done] Computing valid scre: 0.9887
+
+###### Epoch: 96
+[Done] Computing train loss: 0.0122
+[Done] Computing train scre: 0.9995
+[Done] Computing valid loss: 0.4202
+[Done] Computing valid scre: 0.9924
+
+###### Epoch: 97
+[Done] Computing train loss: 0.0051
+[Done] Computing train scre: 0.9997
+[Done] Computing valid loss: 0.5165
+[Done] Computing valid scre: 0.9908
+
+###### Epoch: 98
+[Done] Computing train loss: 0.0106
+[Done] Computing train scre: 0.9996
+[Done] Computing valid loss: 0.6116
+[Done] Computing valid scre: 0.9902
+
+###### Epoch: 99
+[Done] Computing train loss: 0.0085
+[Done] Computing train scre: 0.9996
+[Done] Computing valid loss: 0.6546
+[Done] Computing valid scre: 0.9895
+
+###### Epoch: 100
+[Done] Computing train loss: 0.0086
+[Done] Computing train scre: 0.9996
+[Done] Computing valid loss: 0.5951
+[Done] Computing valid scre: 0.9908
