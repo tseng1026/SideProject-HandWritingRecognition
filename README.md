@@ -13,6 +13,7 @@
 	- torchvision 0.4``pip install torchvision``
 	- pillow 6.1		``pip install pillow``
 	- matplotlib 3.1	``pip install matplotlib``
+- **Final Result:** Accuracy on testdata - 0.9915
 
 ## Reference
 - *Digit Recognition Using Deep Learning*, Shashank Mishra, D. Malathi, K. Senthilkumar, IJPAM 2018
