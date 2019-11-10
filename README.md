@@ -11,6 +11,7 @@
 	- python3.6
 	- torch 1.2		``pip install torch``
 	- torchvision 0.4``pip install torchvision``
+	- mnist	0.2.2		``pip install mnist``
 	- pillow 6.1		``pip install pillow``
 	- matplotlib 3.1	``pip install matplotlib``
 - **Final Result:** Accuracy on testdata - 0.9915
