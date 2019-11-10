@@ -2,7 +2,6 @@ import os
 import mnist
 import numpy as np
 import pandas as pd
-from PIL import Image
 import torch
 from   torch.utils.data import Dataset
 from   torchvision import transforms, datasets
