@@ -1,4 +1,4 @@
-# SideProject - HandWritenDigit
+# SideProject - HandWrittenRecognition
 
 ## Basic Execution
 - **Platform:** Linux (Workstation)
